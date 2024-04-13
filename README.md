@@ -1,7 +1,5 @@
 # Portfolio Projects
-
-1. User & Groups Admin Script:
-
+1. Users & Groups Admin Script:
   The srcipt will create a user/group, or add an existing local user to the group specifiied by the user.
 
   It can also change user passwords.
