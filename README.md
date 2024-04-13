@@ -6,7 +6,7 @@
 
   It can also change user passwords.
 
-3. File & Directory Search:
+2. File & Directory Search:
 
    The scripts gives info to the user about the selected path (directory) or a file with full path.
 
