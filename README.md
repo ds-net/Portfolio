@@ -16,5 +16,5 @@ Next projects:
 
 - AD/Azure user account automation, group and domain management
 - Showcasing of MDS custom OS image setup with automated applicaiton and security configurations
-- Documenting of Simulating / Building an on-premise infrastrucure from the base up
+- Documenting of Simulating / Building an on-premise infrastrucure from the ground up
 - Documenting of Configuring, automatizing and monitoring of said simulated system
